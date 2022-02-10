@@ -45,4 +45,4 @@
 
 ## 
 
-[![webmuniz wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=vue-dark&custom_title=time-spent-programming-in-the-week&username=webmuniz)](https://github.com/anuraghazra/github-readme-stats)
+[![webmuniz wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=vue-dark&custom_title=time-spent-programming-in-the-week&username=webmuniz)](https://github.com/webmuniz/github-readme-stats)
