@@ -42,8 +42,3 @@
 ## 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?custom_title=most-used-languages&username=webmuniz&layout=default&theme=vue-dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-## 
-
-[![Webmuniz wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=vue-dark&custom_title=time-spent-programming-in-the-week&username=webmuniz)](https://github.com/anuraghazra/github-readme-stats)
-
