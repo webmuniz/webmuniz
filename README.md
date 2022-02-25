@@ -8,7 +8,7 @@
 
 ##
 
-## Some technologies I've worked with or had minimal contact with
+## Some technologies I've worked with:
 
 <div>
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;">
