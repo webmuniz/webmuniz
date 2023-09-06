@@ -2,7 +2,7 @@
 
 ## Academic Information
 <div>
-<div>💼 Currently working at Wevolux company </div>
+<div>💼 Currently working at CD2 company </div>
 <div>🎓 Studying Systems Analysis and Development from UVA - Universidade Veiga de Almeida</div>
 </div>
 
